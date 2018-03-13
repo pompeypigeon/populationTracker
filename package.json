@@ -18,6 +18,7 @@
   "homepage": "https://github.com/pompeypigeon/populationTracker#readme",
   "dependencies": {
     "dygraphs": "^2.1.0",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "vis": "^4.21.0"
   }
 }
